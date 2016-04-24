@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "Uz2NLLLxlkkku5mogm/BULItC00=",
+			"origin": "github.com/ChrisHines/pkg-errors-test/vendor/github.com/pkg/errors",
+			"path": "github.com/pkg/errors",
+			"revision": "ab94cc2ab2a084d4954a0c570014fb654adde5cd",
+			"revisionTime": "2016-04-24T22:42:30Z"
+		}
+	],
+	"rootPath": "github.com/ChrisHines/pkg-errors-test"
+}
